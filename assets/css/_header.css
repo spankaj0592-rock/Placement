@@ -1,0 +1,12 @@
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: #e8eff7;
+  margin: 0px 0px;
+  color: #b15c5c;
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+}
